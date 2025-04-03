@@ -24,6 +24,7 @@
 /* Ngăn chặn tràn ngang */
 html, body {
     overflow-x: hidden;
+    text-transform: capitalize;
 }
 
 

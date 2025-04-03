@@ -110,6 +110,10 @@
         top: 2.7rem;
     }
 
+    .main_product-sort {
+        padding-right: 8px;
+    }
+
 }
 
 
@@ -289,6 +293,15 @@
     .bestseller {
         padding-top: 6rem;
     }
+
+    .header__hover-product-top-link {
+        width: 15rem;
+    }
+
+    .hidden_on-mobile {
+        display: none;
+    }
+    
 }
 
 
@@ -405,6 +418,42 @@
         font-size: 1.2rem;
     }
   
+    .main__glasses-blog-btn {
+        padding-left: 4rem;
+    }
+    
+    .main_product-sort {
+        margin: 0;
+    }
+
+    .bestseller__item-price {
+        padding: 0 18px;
+    }
+
+    .bestseller__item-color-item {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    .bestseller__item-detail span {
+        padding: 0px 3px 3px 3px;
+    }
+
+    .bestseller__item-price {
+        padding: 0 1rem;
+    }
+
+    .bestseller__list {
+        border: none;
+    }
+    
+    .bestseller__item-detail {
+        height: 14rem;
+    }
+
+    .end_product-svg {
+        width: 1rem;
+    }
 }
 
 
@@ -486,5 +535,45 @@
 
     .header__navbar-item:nth-child(2) .header__navbar-item-link {
         padding-left: 1rem;
+    }
+
+    .view__product-option-link {
+        font-size: 1.4rem;
+    }
+
+    .view__product-option-left span {
+        font-size: 2.7rem;
+    }
+
+    .main__glasses-interested-search span {
+        padding-left: 1rem;
+    }
+
+    .main__glasses-blog-detail span {
+        font-size: 1.4rem;
+    }
+
+    .main__glasses-journey-header-btn {
+        padding-left: 0;
+    }
+
+    .main__glasses-journey-header-icon span {
+        font-size: 1.5rem;
+    }
+
+    .main__glasses-journey-detail {
+        display: flex !important;
+    }
+
+    .bestseller__item-price span {
+        font-size: 2rem;
+    }
+
+    .bestseller__item-detail span {
+        font-size: 1.2rem;
+    }
+    
+    .header__navbar-item-search-item span {
+        font-size: 1rem;
     }
 }
